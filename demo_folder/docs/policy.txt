@@ -1,0 +1,2 @@
+Security policy v2.0
+Passwords must be 12+ chars.
