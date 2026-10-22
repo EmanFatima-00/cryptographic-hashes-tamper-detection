@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "algorithm": "sha256",
+  "created_utc": "2026-10-22T12:02:37+00:00",
+  "root": "D:\\Desktop\\codenova-task3\\demo_folder",
+  "file_count": 5,
+  "files": {
+    ".codenova_demo": {
+      "sha256": "8bf6f928a31c880be8365e9ccd2614f0a8ba378b9868eb28c7074146c7142016",
+      "size": 33,
+      "modified_utc": "2026-10-22T12:02:37+00:00",
+      "mtime_ns": 1792670557972083200
+    },
+    "readme.txt": {
+      "sha256": "88b341d4fad8fd14582765d89e71d4d791e98d25d6e28121cb9339827298afb9",
+      "size": 42,
+      "modified_utc": "2026-10-22T12:02:37+00:00",
+      "mtime_ns": 1792670557976829600
+    },
+    "bin/tool.bin": {
+      "sha256": "785b0751fc2c53dc14a4ce3d800e69ef9ce1009eb327ccf458afe09c242c26c9",
+      "size": 1024,
+      "modified_utc": "2026-10-22T12:02:37+00:00",
+      "mtime_ns": 1792670557979830100
+    },
+    "docs/policy.txt": {
+      "sha256": "2e915e4b5689f24fd3ce9c0ac5966e975544ef17021371318149296cca10c26f",
+      "size": 50,
+      "modified_utc": "2026-10-22T12:02:37+00:00",
+      "mtime_ns": 1792670557977830100
+    },
+    "docs/reports/q3.csv": {
+      "sha256": "f045c459c4c207a3ae054c110af758e10b338b8a3320921aeea31e35fb529c47",
+      "size": 34,
+      "modified_utc": "2026-10-22T12:02:37+00:00",
+      "mtime_ns": 1792670557978830900
+    }
+  },
+  "manifest_digest": "79407f2b601acfe85546401bc7f5c47a79672a8876994a0220e36407633925df"
+}

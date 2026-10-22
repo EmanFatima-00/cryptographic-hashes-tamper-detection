@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "algorithm": "sha256",
+  "created_utc": "2026-10-22T12:06:10+00:00",
+  "root": "D:\\Desktop\\test_folder",
+  "file_count": 2,
+  "files": {
+    "a.txt": {
+      "sha256": "e0b21438c48ebdf7a9369b7ec6f035dfda0d5dd07ad11b3ad11d1cdb3053737d",
+      "size": 30,
+      "modified_utc": "2026-10-22T12:05:50+00:00",
+      "mtime_ns": 1792670750762210400
+    },
+    "docs/b.txt": {
+      "sha256": "bd61c74d15632b7aa6fe38c52c82f6432e05ddf230e4b9ab4efaa9ed147efbc2",
+      "size": 36,
+      "modified_utc": "2026-10-22T12:06:01+00:00",
+      "mtime_ns": 1792670761471833600
+    }
+  },
+  "manifest_digest": "312b7b5fbb6f61948639e3870051abe8270cad7b070c7a9e3cb4db9edb5b9a62"
+}
